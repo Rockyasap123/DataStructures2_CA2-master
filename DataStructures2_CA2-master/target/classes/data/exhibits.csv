@@ -1,0 +1,220 @@
+exhibit_id,title,artist,room_id
+E001,The Entombment (unfinished),Michelangelo,2
+E002,Madonna and Child with Saint John and Angels,Michelangelo,2
+E003,Portrait of a Young Man,Bronzino,2
+E004,Pope Julius II,Raphael,2
+E005,The Holy Family with a Palm Tree,Raphael,2
+E006,The Ambassadors,Hans Holbein the Younger,4
+E007,Portrait of Giovanni (?),Girolamo Francesco Maria Mazzola (Parmigianino),4
+E008,Portrait of a Woman,Giovanni Battista Moroni,4
+E009,The Tailor,Giovanni Battista Moroni,4
+E010,Portrait of Fortunato Martinengo,Giovanni Battista Moroni,4
+E011,The Supper at Emmaus,Caravaggio,4
+E012,Portrait of a Man (Il Cavaliere dal Piede Ferito),Moroni,4
+E013,Venus and Mars,Sandro Botticelli,5
+E014,Portrait of Federigo da Montefeltro,Piero della Francesca,5
+E015,Portrait of Gerolamo Barbarigo,Titian,5
+E016,The Holy Family with Saint Francis,Andrea del Sarto,6
+E017,Christ Driving the Traders from the Temple,El Greco,6
+E018,The Mystic Marriage of Saint Catherine,Parmigianino,6
+E019,Ecce Homo,Correggio,6
+E020,The Vision of the Young Scipio,Raphael,7
+E021,Saint George and the Dragon,Raphael,7
+E022,Joseph with Jacob in Egypt,Pontormo,7
+E023,Christ presented to the People (Ecce Homo),Rembrandt,8
+E024,Bacchus and Ariadne,Titian,8
+E025,Diana and Actaeon,Titian,8
+E026,Diana and Callisto,Titian,8
+E027,The Death of Actaeon,Titian,8
+E028,Noli me Tangere,Titian,8
+E029,Portrait of Girolamo Fracastoro,Titian,8
+E030,The Adoration of the Shepherds,Titian,8
+E031,The Vendramin Family,Titian,9
+E032,The Family of Darius before Alexander,Paolo Veronese,9
+E033,Unfaithfulness,Paolo Veronese,9
+E034,Happy Union,Paolo Veronese,9
+E035,Respect,Paolo Veronese,9
+E036,The Virgin and Child with Saint Anne and Saint John the Baptist (Burlington House Cartoon),Leonardo da Vinci,51a
+E037,The Virgin of the Rocks,Leonardo da Vinci,10
+E038,Portrait of Leonardo Loredan,Giovanni Bellini,10
+E039,The Agony in the Garden,Giovanni Bellini,10
+E040,Doge Leonardo Loredan,Giovanni Bellini,10
+E041,The Baptism of Christ,Piero della Francesca,10
+E042,Portrait of a Woman,Giovanni Antonio Boltraffio,11
+E043,La Belle Ferronnière,Leonardo da Vinci,11
+E044,The Triumphs of Caesar (series),Andrea Mantegna,12
+E045,The Virgin and Child with Saint John the Baptist and Two Angels,Andrea Mantegna,14
+E046,Introduction of the Cult of Cybele at Rome,Andrea Mantegna,14
+E047,The Origin of the Milky Way,Jacopo Tintoretto,14
+E048,Portrait of a Lady,Lorenzo Lotto,14
+E049,A Young Woman standing at a Virginal,Johannes Vermeer,16
+E050,A Woman standing at a Virginal,Johannes Vermeer,17a
+E051,A Woman Bathing in a Stream (Hendrickje Stoffels?),Rembrandt,17
+E052,Portrait of a Man in a Black Hat,Peter Lely,17
+E053,Samson and Delilah,Peter Paul Rubens,18
+E054,The Judgement of Paris,Peter Paul Rubens,18
+E055,Minerva protects Pax from Mars (Peace and War),Peter Paul Rubens,18
+E056,The Chapeau de Paille (Portrait of Susanna Lunden),Peter Paul Rubens,18
+E057,A Watered Meadow,Jacob van Ruisdael,19
+E058,The Skaters,Hendrick Avercamp,19
+E059,A Winter Scene with Skaters near a Castle,Hendrick Avercamp,26
+E060,Landscape with a Rainbow,Peter Paul Rubens,20
+E061,Le Chapeau de Paille,Peter Paul Rubens,20
+E062,Portrait of Margaretha de Geer,Rembrandt,20
+E063,Portrait of Lord John Stuart and his Brother Lord Bernard Stuart,Anthony van Dyck,21
+E064,Portrait of Cornelis van der Geest,Anthony van Dyck,21
+E065,Equestrian Portrait of Charles I,Anthony van Dyck,21
+E066,Portrait of George Gage with Two Attendants,Anthony van Dyck,21
+E067,Belshazzar's Feast,Rembrandt,22
+E068,Self Portrait at the Age of 34,Rembrandt,22
+E069,Self Portrait at the Age of 63,Rembrandt,22
+E070,Portrait of Jacob Trip,Rembrandt,22
+E071,Portrait of Margaretha de Geer,Rembrandt,22
+E072,Portrait of Aechje Claesdr,Rembrandt,22
+E073,A Boy,Frans Hals,23
+E074,Portrait of a Man with a Skull,Frans Hals,23
+E075,Lady and Gentleman on Horseback,Frans Hals,23
+E076,Two Boys Singing,Frans Hals,23
+E077,The Banquet of the Officers of the St George Civic Guard,Frans Hals,23
+E078,Tobias and the Angel,Rembrandt,24
+E079,Belshazzar's Feast,Rembrandt,24
+E080,Chrysanthemums in a Vase,Rachel Ruysch,25
+E081,Still Life with Fruit and Flowers,Jan van Huysum,25
+E082,Apples in a Bowl,Gustave Courbet,25
+E083,Oysters and a Silver Dish,Jan de Heem,25
+E084,Still Life with Drinking Vessels,Jan Jansz Treck,25
+E085,A Winter Scene with Skaters near a Castle,Hendrick Avercamp,26
+E086,Landscape with a Storm,Aelbert Cuyp,27
+E087,Landscape with Dunes,Aelbert Cuyp,27
+E088,Vase of Flowers,Jan van Huysum,28
+E089,Sunflowers in a Terracotta Vase,Jan Davidsz de Heem,28
+E090,Flowers in a Glass Vase,Rachel Ruysch,28
+E091,A Bacchanalian Revel before a Term,Nicolas Poussin,29
+E092,The Adoration of the Shepherds,Nicolas Poussin,29
+E093,Landscape with a Man killed by a Snake,Nicolas Poussin,29
+E094,The Annunciation,Nicolas Poussin,29
+E095,The Toilet of Venus (The Rokeby Venus),Diego Velázquez,30
+E096,Christ after the Flagellation contemplated by the Christian Soul,Diego Velázquez,30
+E097,Philip IV of Spain in Brown and Silver,Diego Velázquez,30
+E098,Philip IV hunting Wild Boar,Diego Velázquez,30
+E099,Saint Francis in Meditation,Francisco de Zurbarán,30
+E100,The Immaculate Conception,Bartolomé Esteban Murillo,30
+E101,Le Roi à la chasse (Philip IV of Spain),Diego Velázquez,31
+E102,Equestrian Portrait of Charles I,Anthony van Dyck,31
+E103,Portrait of the Duke of Arundel,Peter Paul Rubens,31
+E104,Portrait of a Cardinal,Anthony van Dyck,32
+E105,The Conversion of Saint Paul,Annibale Carracci,32
+E106,Boy Bitten by a Lizard,Caravaggio,32
+E107,The Supper at Emmaus,Caravaggio,32
+E108,The Death of Actaeon (workshop),Titian,32
+E109,The Procession of the Trojan Horse into Troy,Giovanni Battista Tiepolo,33
+E110,The Empire of Flora,Giovanni Battista Tiepolo,33
+E111,Venice from the Porch of the Madonna della Salute,Canaletto,33
+E112,The Stonemason's Yard,Canaletto,33
+E113,Venice: The Grand Canal,Francesco Guardi,33
+E114,The Painter's Daughters chasing a Butterfly,Thomas Gainsborough,34
+E115,Portrait of Mrs Siddons,Thomas Gainsborough,34
+E116,Mr and Mrs Andrews,Thomas Gainsborough,34
+E117,The Morning Walk,Thomas Gainsborough,34
+E118,Colonel Acland and Lord Sydney: The Archers,Joshua Reynolds,34
+E119,The Age of Innocence,Joshua Reynolds,34
+E120,Claude: The Rape of Europa,Claude Lorrain,35
+E121,Seaport with the Embarkation of Saint Ursula,Claude Lorrain,35
+E122,Landscape with Hagar and the Angel,Claude Lorrain,35
+E123,Landscape with Cephalus and Procris reunited by Diana,Claude Lorrain,35
+E124,The Judgement of Paris,Claude Lorrain,35
+E125,The Annunciation,Philippe de Champaigne,36
+E126,Landscape with Psyche outside the Palace of Cupid (The Enchanted Castle),Claude Lorrain,36
+E127,The Supper at Emmaus,Caravaggio,36
+E128,The Holy Family with John the Baptist,Nicolas Poussin,36
+E129,David and Goliath,Artemisia Gentileschi,37
+E130,Portrait of a Cardinal,Jusepe de Ribera,37
+E131,Judith with the Head of Holofernes,Artemisia Gentileschi,37
+E132,Samson and Delilah,Guido Reni,37
+E133,The Cornard Wood (Gainsborough's Forest),Thomas Gainsborough,38
+E134,Madame Moitessier,Jean-Auguste-Dominique Ingres,38
+E135,Bathers at La Grenouillère,Claude Monet,41
+E136,The Hay Wain,John Constable,39
+E137,Dedham Vale,John Constable,39
+E138,Landscape with Aqueduct at Sunset,Annibale Carracci,39
+E139,View of Delft,Jan van der Heyden,39
+E140,The Fighting Temeraire,J.M.W. Turner,40
+E141,Rain Steam and Speed – The Great Western Railway,J.M.W. Turner,40
+E142,Flatford Mill (Scene on a Navigable River),John Constable,40
+E143,The Leaping Horse,John Constable,40
+E144,Evening Landscape (The Four Times of Day: Evening),Jean-Baptiste-Camille Corot,40
+E145,Ulysses deriding Polyphemus,J.M.W. Turner,40
+E146,The Thames below Westminster,Claude Monet,41
+E147,The Gare Saint-Lazare,Claude Monet,41
+E148,Water-Lily Pond,Claude Monet,41
+E149,Bathers at Asnières,Georges Seurat,44
+E150,The Skiff (La Yole),Pierre-Auguste Renoir,44
+E151,The Bathers,Paul Cézanne,44
+E152,Boulevard Montmartre at Night,Camille Pissarro,44
+E153,The Côte des Bœufs at L'Hermitage,Camille Pissarro,44
+E154,Sunflowers,Vincent van Gogh,43
+E155,Van Gogh's Chair,Vincent van Gogh,43
+E156,A Wheatfield with Cypresses,Vincent van Gogh,43
+E157,Faa Iheihe,Paul Gauguin,43
+E158,Fruit Dish Bottle and Violin,Pablo Picasso,45
+E159,Henri Matisse – Portrait of Greta Moll,Henri Matisse,45
+E160,Still Life with Compotier,Paul Cézanne,45
+E161,Water Lilies Setting Sun,Claude Monet,46
+E162,The Water-Lily Pond,Claude Monet,46
+E163,Irises,Claude Monet,46
+E164,The Wilton Diptych,French or English,51
+E165,The Burlington House Cartoon,Leonardo da Vinci,51a
+E166,The Arnolfini Portrait,Jan van Eyck,52
+E167,Portrait of a Man (Self Portrait?),Jan van Eyck,52
+E168,Portrait of a Man,Robert Campin,52
+E169,A Man and a Woman,Robert Campin,52
+E170,The Baptism of Christ,Piero della Francesca,53
+E171,Portrait of a Young Woman,Petrus Christus,53
+E172,The Mystic Nativity,Sandro Botticelli,54
+E173,Venus and Mars,Sandro Botticelli,54
+E174,Portrait of a Young Man,Sandro Botticelli,54
+E175,Portrait of a Woman,Rogier van der Weyden,54
+E176,The Virgin and Child,Hans Memling,55
+E177,Saint John the Baptist and Saint Lawrence,Hans Memling,55
+E178,Portrait of a Man,Albrecht Dürer,55
+E179,The Painter's Father,Albrecht Dürer,55
+E180,Saint Jerome in the Wilderness,Lucas Cranach the Elder,55
+E181,Portrait of a Young Man,Giovanni Bellini,56
+E182,The Virgin of the Rocks,Leonardo da Vinci,56
+E183,Portrait of a Woman of the Hofer Family,Swabian Artist,55
+E184,The Madonna of the Pinks,Raphael,57
+E185,The Ansidei Madonna,Raphael,57
+E186,Saint Michael,Raphael,57
+E187,The Coronation of the Virgin,Fra Angelico,57
+E188,The Virgin and Child,Filippino Lippi,57
+E189,Saint Jerome in a Landscape,Giovanni Bellini,58
+E190,The Agony in the Garden,Andrea Mantegna,58
+E191,The Dead Christ,Andrea Mantegna,58
+E192,Portrait of Federigo da Montefeltro and his son,Piero della Francesca,59
+E193,The Baptism of Christ,Piero della Francesca,59
+E194,Nativity,Piero della Francesca,59
+E195,The Virgin and Child with Two Angels,Fra Filippo Lippi,60
+E196,Portrait of a Young Woman,Sandro Botticelli,60
+E197,Portrait of an Old Man and a Young Boy,Domenico Ghirlandaio,60
+E198,The Story of Nastagio degli Onesti,Sandro Botticelli,60
+E199,The Virgin and Child (The Mackintosh Madonna),Raphael,60
+E200,Portrait of a Man,Jan van Eyck,60
+E201,Portrait of a Girl (Griselda),Pintoricchio,61
+E202,The Story of Griselda (I),Pintoricchio,61
+E203,The Ansidei Altarpiece – Predella,Raphael,61
+E204,Saint Michael,Perugino,61
+E205,Portrait of a Condottiere,Giovanni Bellini,61
+E206,The Nativity at Night,Geertgen tot Sint Jans,62
+E207,The Virgin and Child in a Landscape,Giovanni Bellini,62
+E208,Saint John the Baptist in the Wilderness,Geertgen tot Sint Jans,62
+E209,Portrait of a Man,Hans Memling,63
+E210,The Virgin and Child with Saints and Donors,Hans Memling,63
+E211,The Raising of Lazarus,Sebastiano del Piombo,64
+E212,Portrait of a Cardinal,Raphael,64
+E213,The Baptism of Christ,Antoniazzo Romano,64
+E214,The Virgin and Child Enthroned,Piero della Francesca,65
+E215,Polyptych of the Misericordia,Piero della Francesca,65
+E216,The Baptism of Christ,Piero della Francesca,66
+E217,The Nativity,Piero della Francesca,66
+E218,Portrait of the Duke of Urbino,Piero della Francesca,66
+E219,Whistlejacket,George Stubbs,1

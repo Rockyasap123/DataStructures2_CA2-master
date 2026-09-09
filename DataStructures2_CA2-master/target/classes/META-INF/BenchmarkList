@@ -1,0 +1,4 @@
+JMH S 22 org.example.Benchmarks S 57 org.example.jmh_generated.Benchmarks_benchmarkBFS_jmhTest S 12 benchmarkBFS S 11 AverageTime E A 1 1 1 E I 1 3 T 3 1 s E I 1 5 T 3 1 s E I 1 1 E E E E E E U 12 MILLISECONDS E E 
+JMH S 22 org.example.Benchmarks S 57 org.example.jmh_generated.Benchmarks_benchmarkDFS_jmhTest S 12 benchmarkDFS S 11 AverageTime E A 1 1 1 E I 1 3 T 3 1 s E I 1 5 T 3 1 s E I 1 1 E E E E E E U 12 MILLISECONDS E E 
+JMH S 22 org.example.Benchmarks S 62 org.example.jmh_generated.Benchmarks_benchmarkDijkstra_jmhTest S 17 benchmarkDijkstra S 11 AverageTime E A 1 1 1 E I 1 3 T 3 1 s E I 1 5 T 3 1 s E I 1 1 E E E E E E U 12 MILLISECONDS E E 
+JMH S 22 org.example.Benchmarks S 65 org.example.jmh_generated.Benchmarks_benchmarkInteresting_jmhTest S 20 benchmarkInteresting S 11 AverageTime E A 1 1 1 E I 1 3 T 3 1 s E I 1 5 T 3 1 s E I 1 1 E E E E E E U 12 MILLISECONDS E E 

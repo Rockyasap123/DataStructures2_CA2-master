@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.image.Image?>
+
+<BorderPane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="org.example.Controller">
+
+    <!-- LEFT PANEL: Controls -->
+    <left>
+        <VBox spacing="10" style="-fx-padding: 10; -fx-min-width: 220px;">
+
+            <Label text="National Gallery Route Finder"
+                   style="-fx-font-size: 14px; -fx-font-weight: bold;" />
+
+            <Separator/>
+
+            <Label text="Start Room:" />
+            <ComboBox fx:id="startBox" prefWidth="200"/>
+
+            <Label text="End Room:" />
+            <ComboBox fx:id="endBox" prefWidth="200"/>
+
+            <Separator/>
+
+            <Label text="Algorithms:" style="-fx-font-weight: bold;"/>
+
+            <Button text="BFS Shortest Route"
+                    onAction="#handleBFS"
+                    prefWidth="200"/>
+
+            <Button text="Dijkstra Shortest Route"
+                    onAction="#handleDijkstra"
+                    prefWidth="200"/>
+
+            <Separator/>
+
+            <Label text="DFS - Multiple Routes:" />
+            <HBox spacing="5" alignment="CENTER_LEFT">
+                <Label text="Max routes:"/>
+                <Spinner fx:id="dfsLimitSpinner" min="1" max="20" initialValue="5" prefWidth="70"/>
+            </HBox>
+            <Button text="DFS All Routes"
+                    onAction="#handleDFS"
+                    prefWidth="200"/>
+
+            <Separator/>
+
+            <Label text="Most Interesting Route:" style="-fx-font-weight: bold;"/>
+            <Label text="Preferred artists (comma-separated):"
+                   wrapText="true"/>
+            <TextArea fx:id="artistInput"
+                      prefHeight="60"
+                      wrapText="true"
+                      promptText="e.g. Rembrandt, Titian, Monet"/>
+            <Button text="Find Interesting Route"
+                    onAction="#handleInteresting"
+                    prefWidth="200"/>
+
+            <Separator/>
+
+            <Label text="Options:" style="-fx-font-weight: bold;"/>
+            <Label text="Avoid rooms (comma-separated):" wrapText="true"/>
+            <TextField fx:id="avoidInput" promptText="e.g. 22, 30"/>
+
+            <Label text="Waypoints (comma-separated):" wrapText="true"/>
+            <TextField fx:id="waypointInput" promptText="e.g. 40, 43"/>
+
+            <Separator/>
+
+            <Label text="Pixel BFS:" style="-fx-font-weight: bold;"/>
+            <Label text="Click button then select two points on the map." wrapText="true"/>
+            <Button text="Pixel BFS Route"
+                    onAction="#handlePixelBFS"
+                    prefWidth="200"/>
+
+        </VBox>
+    </left>
+
+    <!-- CENTER: Map area -->
+    <center>
+        <Pane fx:id="mapPane"
+              prefWidth="1100"
+              prefHeight="750"
+              maxWidth="1100"
+              maxHeight="750"
+              style="-fx-background-color: #f0f0f0;">
+            <ImageView fx:id="mapImage"
+                       fitWidth="1100"
+                       fitHeight="750"
+                       preserveRatio="true"
+                       pickOnBounds="true"/>
+        </Pane>
+    </center>
+
+    <!-- RIGHT PANEL: Output -->
+    <right>
+        <VBox style="-fx-padding: 10;">
+            <Label text="Route Output:"
+                   style="-fx-font-weight: bold; -fx-padding: 0 0 5 0;"/>
+            <TextArea fx:id="outputArea"
+                      prefWidth="280"
+                      prefHeight="950"
+                      editable="false"
+                      wrapText="true"
+                      style="-fx-font-family: monospace;"/>
+        </VBox>
+    </right>
+
+</BorderPane>
